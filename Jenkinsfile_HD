@@ -8,7 +8,8 @@ node{
  }
  stage('3codeQuality'){
     sh "${mavenHome}/bin/mvn sonar:sonar"
-  } /*
+  }
+  /* 
    stage('4uploadArtifacts'){
     sh "${mavenHome}/bin/mvn deploy"
    }
@@ -33,4 +34,5 @@ node{
 Please check and comment on build status
 
 Hotty Dotty''', recipientProviders: [buildUser(), developers()], subject: 'Build status', to: 'engrlyndi@gmail.com'  
-  } */
+  }
+ */
