@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.68.246:8081/repository/boa-sales-releases/</url>
+	      <url>http://172.31.68.246:8081/repository/tesla202-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.68.246:8081/repository/boa-sales-snapshots/</url>
+	      <url>http://44.197.112.240:8081/repository/tesla202-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
