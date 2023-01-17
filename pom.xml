@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Boabts</finalName>
+		<finalName>Boa-bts</finalName>
 		
 		<plugins>
 			<plugin>
